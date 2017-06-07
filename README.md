@@ -31,3 +31,4 @@ BSTs are highly recursive structures — many of your methods should employ rec
 ### Hash Table DS
 
 Keeping track of what is going where and how to access it in this suite may be tricky. Good variable and property names will be especially helpful here; try to keep things clear.
+# data-structures
